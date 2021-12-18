@@ -1,5 +1,5 @@
 # BTLHeDieuHanh
-Nhóm gồm 3 thành viên :
+- Nhóm gồm 3 thành viên :
 
 Đỗ Vượng Lộc - 20182642
 
